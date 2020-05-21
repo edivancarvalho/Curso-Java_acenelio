@@ -24,3 +24,6 @@ hs_err_pid*
 Interfaces/.classpath
 Interfaces/.project
 Interfaces/.settings/org.eclipse.jdt.core.prefs
+Com-Interfaces/.classpath
+Com-Interfaces/.project
+Com-Interfaces/.settings/org.eclipse.jdt.core.prefs
